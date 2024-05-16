@@ -1,4 +1,7 @@
-### Hi there 👋
+### Salve 😎
+  # Meu nome é Eduardo Cardozo de Sá 
+  # Sou estudante do Alura 
+  #
 
 <!--
 **cardozo1234/cardozo1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
